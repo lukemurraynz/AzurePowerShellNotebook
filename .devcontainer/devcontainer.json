@@ -1,0 +1,12 @@
+{
+   "image": "mcr.microsoft.com/dotnet/sdk:8.0",
+    "customizations":{
+        "vscode": {
+            "extensions": [
+                "ms-dotnettools.dotnet-interactive-vscode"
+            ]
+        },
+  "features": {
+  }
+}
+}
