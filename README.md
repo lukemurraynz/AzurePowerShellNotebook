@@ -1,10 +1,8 @@
-# AzurePowerShellNotebook
-AzurePowerShellNotebook
-## Mastering Azure Management with PowerShell
+## Microsoft Azure Management with PowerShell Introduction
 
 ### Introduction
 
-This comprehensive course is designed to empower you with the knowledge and skills to effectively manage Azure resources using PowerShell. 
+This course is designed to empower you with the knowledge and skills to effectively manage Azure resources using PowerShell. 
 
 Whether you're a beginner or an experienced Azure user, this course will take you from the fundamentals to advanced techniques, providing you with a strong foundation in automating Azure tasks using PowerShell.
 
