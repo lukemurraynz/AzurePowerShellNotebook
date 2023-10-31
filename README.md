@@ -14,7 +14,7 @@ Target Audience:
 
 This course is designed as a self-paced program
 
-View the video of this [here](https://youtu.be/a4gehHwlwBQ) and the blog version [here](https://luke.geek.nz/azure/powershell/azure-management-powershell/).
+**View the video of this [here](https://youtu.be/a4gehHwlwBQ) and the blog version [here](https://luke.geek.nz/azure/powershell/azure-management-powershell/).**
 
 ### What is a notebook?
 
