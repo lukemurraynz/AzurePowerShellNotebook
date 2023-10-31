@@ -14,6 +14,8 @@ Target Audience:
 
 This course is designed as a self-paced program
 
+View the video of this [here](https://youtu.be/a4gehHwlwBQ) and the blog version [here](https://luke.geek.nz/azure/powershell/azure-management-powershell/).
+
 ### What is a notebook?
 
 A notebook is an interactive programming and computational file that supports mixing executable code, visualizations, equations, and narrative text. Contrary to scripts that need to be run in their entirety, notebooks have code cells that allow code to be run in an incremental and segmented manner. Popularized by the open-source Project Jupyter, you may have heard of these referred to as ‘Jupyter Notebooks’. The component responsible for running code in a notebook is a kernel, and traditionally, Jupyter Notebooks have been most commonly used with Python kernels. Their ability to quickly iterate on code and create visualizations with narrative text have led them to become the de facto tool for data science and great tools for teaching or learning a new programming language, and quick prototyping.
